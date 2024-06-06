@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: " A sustentabilidade é fundamental para garantir que as necessidades do presente sejam atendidas sem comprometer a capacidade das gerações futuras de atenderem às suas próprias necessidades. Qual é o seu primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
