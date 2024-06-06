@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Ela abrange uma série de aspectos, incluindo a proteção do meio ambiente, a promoção da justiça social e o desenvolvimento econômico equitativo. Sem práticas sustentáveis, corremos o risco de esgotar os recursos naturais, degradar o meio ambiente, aumentar as desigualdades sociais e enfrentar crises econômicas cada vez mais graves .. Qual atitude você toma?",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
