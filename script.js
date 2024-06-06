@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " A sustentabilidade é fundamental para garantir que as necessidades do presente sejam atendidas sem comprometer a capacidade das gerações futuras de atenderem às suas próprias necessidades. Qual é o seu primeiro pensamento?",
+        enunciado: " A sustentabilidade é fundamental para garantir que as necessidades do presente sejam atendidas sem comprometer a capacidade das gerações futuras de atenderem às suas próprias necessidades. Qual é o seu primeiro pensamento sobre isso?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
