@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "Ela abrange uma série de aspectos, incluindo a proteção do meio ambiente, a promoção da justiça social e o desenvolvimento econômico equitativo. Sem práticas sustentáveis, corremos o risco de esgotar os recursos naturais, degradar o meio ambiente, aumentar as desigualdades sociais e enfrentar crises econômicas cada vez mais graves. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Utilizar maneiras de contribuir "
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
