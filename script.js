@@ -22,25 +22,25 @@ const perguntas = [
         enunciado: "As empresas de carros querem fabricar mais veículos, com isso você tem que aprovar os carros elétricos/biocombustíveis que precisará de uma verba maior para a fabricação ou carros com gases poluentes que será usado menos verba para a sua fabricação. Qual você irá aprovar?",
         alternativas: [
             {
-                texto: "Utilizar maneiras de contribuir "
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "carros elétricos/biocombustíveis "
+                afirmacao: "você escolheu um carro mais sustentável para o meio ambiente, mas a verba será maior para a fabricação."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "carros com gases poluentes.",
+                afirmacao: "você escolheu o carro com menos verba para a fabricação, mas ele é mais poluente."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "O congresso te apresenta mais duas leis, sendo elas usar mais energias limpas que você poderá colocar placas solares pelos campos e essa energia ser utilizada de noite nas ruas ou  liberar uma verba para uma pesquisa a energia de fusão nuclear tendo 50% que poderá dar certo e 50% que pode dar errado causando uma explosão nuclear",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "aprova a primeira opção.",
+                afirmacao: "colocar placas solares pelos campos e usar sua energia nas cidades de noite."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "aprova a segunda opção.",
+                afirmacao: "Dar o dinheiro para a pesquisa sobre energias de fusão nuclear."
             }
         ]
     },
