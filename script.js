@@ -22,9 +22,10 @@ const perguntas = [
         enunciado: "As empresas de carros querem fabricar mais veículos, com isso você tem que aprovar os carros elétricos/biocombustíveis que precisará de uma verba maior para a fabricação ou carros com gases poluentes que será usado menos verba para a sua fabricação. Qual você irá aprovar?",
         alternativas: [
             {
-                texto: "Carros elétricos/biocombustíveis "
+                texto: "Carros elétricos/biocombustíveis ",
                 afirmacao: "Você escolheu um carro mais sustentável para o meio ambiente, mas a verba será maior para a fabricação."
             },
+
             {
                 texto: "Carros com gases poluentes.",
                 afirmacao: "Você escolheu o carro com menos verba para a fabricação, mas ele é mais poluente."
@@ -88,8 +89,8 @@ function mostraPergunta() {
     mostraAlternativas();
 }
 
-function mostraAlternativas(){
-    for(const alternativa of perguntaAtual.alternativas) {
+function mostraAlternativas() {
+    for (const alternativa of perguntaAtual.alternativas) {
         const botaoAlternativas = document.createElement("button");
         botaoAlternativas.textContent = alternativa.texto;
         botaoAlternativas.addEventListener("click", () => respostaSelecionada(alternativa));
