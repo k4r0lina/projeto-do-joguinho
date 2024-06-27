@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "aprovar a segunda lei",
-                afirmacao: "Quis saber mais sobre o assunto."
+                afirmacao: "Ter mais gases oluentes por ter mais empresas ."
             }
         ]
     },
