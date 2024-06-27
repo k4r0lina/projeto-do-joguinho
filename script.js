@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " A sustentabilidade é fundamental para garantir que as necessidades do presente sejam atendidas sem comprometer a capacidade das gerações futuras de atenderem às suas próprias necessidades. Qual é o seu primeiro pensamento sobre isso?",
+        enunciado: " Imagina que você é um presidente, e o congresso te apresenta dois projetos de leis. Uma é para diminuir as emissões de gases poluentes com o custos de que algumas empresas irão sair do país, a segunda lei é para aumentar o limite dos gases poluentes e com isso terá mais empresas ",
         alternativas: [
             {
                 texto: "Isso é assustador!",
