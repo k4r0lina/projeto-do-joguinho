@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: " Imagina que você é um presidente, e o congresso te apresenta dois projetos de leis. Uma é para diminuir as emissões de gases poluentes com o custos de que algumas empresas irão sair do país, a segunda lei é para aumentar o limite dos gases poluentes e com isso terá mais empresas ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "Ficou com medo dessa 'responsabilidade'. "
+                texto: "aprovar a primeira lei",
+                afirmacao: "ter um país com menos gases poluentes. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "aprovar a segunda lei",
                 afirmacao: "Quis saber mais sobre o assunto."
             }
         ]
