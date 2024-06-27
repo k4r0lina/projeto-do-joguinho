@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ela abrange uma série de aspectos, incluindo a proteção do meio ambiente, a promoção da justiça social e o desenvolvimento econômico equitativo. Sem práticas sustentáveis, corremos o risco de esgotar os recursos naturais, degradar o meio ambiente, aumentar as desigualdades sociais e enfrentar crises econômicas cada vez mais graves. Qual atitude você toma?",
+        enunciado: "As empresas de carros querem fabricar mais veículos, com isso você tem que aprovar os carros elétricos/biocombustíveis que precisará de uma verba maior para a fabricação ou carros com gases poluentes que será usado menos verba para a sua fabricação. Qual você irá aprovar?",
         alternativas: [
             {
                 texto: "Utilizar maneiras de contribuir "
