@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "A partir de agora temos mais água em todo mundo, pois nossa água potável não é mais utilizada para gerar energia nas usinas hidrelétricas. Com isso o congresso te apresenta dois novos projetos de leis, são elas: Diminuir o uso inapropriado  da água, assim gerando uma multa para quem utilizar a água de forma inadequada. Ou abaixar o preço do uso da água.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "aprovar o primeiro projeto .",
+                afirmacao: " utilizar a água da forma certa, fazendo o uso correto e adequado da água."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "aprovar o segundo projeto.",
+                afirmacao: " a baixar o valor do preço utilizado pela água"
             }
         ]
     },
@@ -76,7 +76,7 @@ const perguntas = [
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
-
+s
 function mostraPergunta() {
     if (atual >= perguntas.length) {
         mostraResultado();
