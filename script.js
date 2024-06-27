@@ -80,7 +80,7 @@ const perguntas = [
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
-s
+
 function mostraPergunta() {
     if (atual >= perguntas.length) {
         mostraResultado();
