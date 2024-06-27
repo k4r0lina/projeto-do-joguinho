@@ -58,15 +58,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "O último projeto que foi criado possibilitou o maior uso de água, com isso o congresso apresentou mais dois projetos de leis, assim estabelecendo eles com base no meio ambiente, primeiro projeto: fazer o plantio de mais árvores pelas cidades, possibilitando a melhora da qualidade do ar. OU o segundo projeto, onde ele apresenta pegar a verba, e fazer para uso de novas pavimentações na cidade",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "aprovar o primeiro projeto.",
+                afirmacao: " plantar mais árvores para melhorar a qualidade do ar."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "aprovar segundo projeto",
+                afirmacao: "fazer novas pavimentações pela cidade. "
             }
         ]
     },
