@@ -39,6 +39,7 @@ const perguntas = [
                 texto: "Aprova a primeira opção.",
                 afirmacao: "Colocar placas solares pelos campos e usar sua energia nas cidades de noite."
             },
+
             {
                 texto: "Aprova a segunda opção.",
                 afirmacao: "Dar o dinheiro para a pesquisa sobre energias de fusão nuclear."
@@ -52,6 +53,7 @@ const perguntas = [
                 texto: "Aprovar o primeiro projeto .",
                 afirmacao: " Utilizar a água da forma certa, fazendo o uso correto e adequado da água."
             },
+
             {
                 texto: "Aprovar o segundo projeto.",
                 afirmacao: "A baixar o valor do preço utilizado pela água"
@@ -65,12 +67,13 @@ const perguntas = [
                 texto: "Aprovar o primeiro projeto.",
                 afirmacao: " Plantar mais árvores para melhorar a qualidade do ar."
             },
+
             {
                 texto: "Aprovar segundo projeto",
                 afirmacao: "Fazer novas pavimentações pela cidade. "
             }
         ]
-    },
+    }
 ];
 
 
